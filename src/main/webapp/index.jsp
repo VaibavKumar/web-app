@@ -5,8 +5,8 @@
 <body>
     <h1 style="color: black; font-size: 60px;" align="center">WELCOME TO VAIBAV'S WEBAPP </h1>
 	<h2 style="color: red; font-size: 50px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h2>
-		<h3 style="color: red; font-size: 30px;" align="center">Version 2 deployment with NEXUS integration</h3>
-    <h2 style="color: blue; font-size: 50px;" align="center">This is Version 2</h2>
-    <h2 style="color: green; font-size: 50px;" align="center">Version 2 Completed </h2>
+		<h3 style="color: red; font-size: 30px;" align="center">Version 3 deployment with NEXUS integration</h3>
+    <h2 style="color: blue; font-size: 50px;" align="center">This is Version 3</h2>
+    <h2 style="color: green; font-size: 50px;" align="center">Version 3 Completed </h2>
 </body>
 </html>
